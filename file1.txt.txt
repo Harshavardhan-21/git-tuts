@@ -1,1 +1,1 @@
-hello i am traing git. dev2
+hello i am traing git. dev2 conflicts.
